@@ -1,0 +1,10 @@
+{
+  "types": {
+    "web_app": {
+      "plural_label": "Web Apps",
+      "label": "Web App",
+      "uri": "https://cdn-icons-png.flaticon.com/512/3962/3962020.png",
+      "description": "A web app is a computer program that utilizes web browsers and web technology to perform tasks over the Internet."
+    }
+  }
+}
